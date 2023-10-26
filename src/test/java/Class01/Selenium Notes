@@ -1,0 +1,11 @@
+How do we integrate selenium into our project?
+
+1. Maven Project
+
+
+
+get() vs navigate():
+    both serves the same purpose --> to navigate to a particular URL
+
+    get()--> you can't go back or forward in the history
+    navigate()-->

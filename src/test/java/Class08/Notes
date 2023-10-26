@@ -1,0 +1,10 @@
+Following Sibling:
+Syntax = //tagname[@attribute='value']/following-sibling::tagname
+//input[@id='favourite-book']/following-sibling::input[1]
+
+Preceding Sibling:
+Syntax = //tagname[@attribute='value']/preceding-sibling::tagname
+
+Child:
+Syntax = //tagname[@attribute='value']/child::tagname
+//div[@id='familyTree']/child::input[1]
